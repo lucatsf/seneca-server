@@ -14,7 +14,7 @@ export class DSNProcessorJob {
 			path: "/api/v1/get/logs/postfix/500",
 			method: "GET",
 			headers: {
-				"X-API-Key": "54D51F-ABB707-5E3C37-7E77EB-7F92AF",
+				"X-API-Key": "",
 			},
 		};
 
